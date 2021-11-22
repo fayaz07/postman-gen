@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/fayaz07/postman-generator/src/core"
+	"github.com/fayaz07/postman-gen/src/core"
 )
 
 func main() {

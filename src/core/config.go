@@ -4,7 +4,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/fayaz07/postman-generator/src/utils"
+	"github.com/fayaz07/postman-gen/src/utils"
 	"github.com/joho/godotenv"
 )
 
