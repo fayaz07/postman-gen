@@ -1,4 +1,4 @@
-module github.com/fayaz07/post-urls-gen
+module github.com/fayaz07/postman-generator
 
 go 1.17
 
